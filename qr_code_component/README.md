@@ -16,10 +16,12 @@ This is a responsive solution of QR Code component, it is implemented using HTML
 And layout of flexbox
 
 ### Desktop-preview
-![](./../desktop-preview.png)
+
+![](./images/desktop-preview.png)
 
 ### Mobile-preview
-![](./../mobile-preview.png)
+
+![](./images/mobile-preview.png)
 
 **Screenshots of both the desktop and mobile preview**
 
